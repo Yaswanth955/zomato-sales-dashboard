@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+matplotlib
+seaborn
+fbprophet
+folium
+wordcloud
